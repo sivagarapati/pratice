@@ -1,0 +1,69 @@
+body  	{font-family:"trebuchet ms",helvetica,sans-serif;
+		margin-top: 35px;
+		margin-bottom: 35px;
+		margin-right: 35px;
+		margin-left: 35px;
+		background-color: lightblue;
+		background-repeat: no-repeat;
+		background-size:cover;
+		}
+.banner {
+		border:1px solid whitesmoke;
+		font-size:15px;
+		color:blue;
+		width:185px;
+		height:110px;
+		float:left;
+		padding:5px;
+		margin:3px;
+		}
+		
+a  	 	{text-decoration:none;}
+#content{font-family:inherit; text-align:center;color:gold;}
+
+#home 	{text-align :center;
+		float:center;
+		margin:2px;
+		}
+
+div>p 	{font-family:Courier New;}
+nav 	{font-weight:bold;
+		color:white;
+		border:2px solid whitesmoke;
+		text-align:center;
+		background-color:RoyalBlue;
+		}
+nav:hover ul    {display: block;}
+nav ul li:hover {background-color: powderBlue;}
+nav ul li  	 	{display:inline-block;
+				background-color:white;
+				color:black;
+				width:100px;
+				margin:0;
+				padding:0;
+				}
+#map	{ text-align:center;
+		} 
+
+form {
+	text-align:center;
+	
+}
+
+#pic{
+	width:405px;height:250px; border:2px solid white; padding:2px;
+}
+table{border-collapse:collapse;}
+table th,td {	border-width:2px;
+				border: 1px solid Black;
+				background-color:honeydew;
+				text-align:center;	
+			}
+th,td{padding: 5px;
+		color:black;
+		}
+#footer {
+	padding: 1px;
+	background-color: azure;
+	text-align: center;
+	}	
